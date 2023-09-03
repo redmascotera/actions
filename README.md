@@ -1,5 +1,7 @@
-# actions
+# redmascotera/actions
 Custom Github Actions for RedMascotera
+
+* [PyLint](#pylint)
 
 ## PyLint
 
